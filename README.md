@@ -1,7 +1,15 @@
-# Pabllo.github.io
-Olá, me chamo Pabllo e tenho 19 anos, nesse momento eu curso analise e desenvolvimento de sistemas na cruzeiro do sul, sou apaixonado por tecnologia e sempre tenho vontade de aprender coisas novas.
+Estudante de Análise e Desenvolvimento de Sistemas, atualmente no primeiro semestre. Estou começando minha jornada na área de tecnologia e utilizando o GitHub para registrar meus aprendizados e construir meu portfólio aos poucos.
 
-SOBRE MIM
+ Olá! Eu sou Pabllo 👋
 
-iniciante em progamação conhecendo e expandindo meus conhecimentos com lógica e linguagens.
-Interesse constante em me capacitar e estar atualizado sobre programação, mesmo sendo novo nesse "universo" tenho vontade de aprender mais e mais, além de boa comunicação e engajamento
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou no início da minha jornada na área de tecnologia.
+
+🎓 Atualmente estou no primeiro semestre da graduação.
+
+💻 Tenho interesse em aprender sobre programação, desenvolvimento de sistemas e tecnologia.
+
+📚 Neste momento, estou desenvolvendo meus conhecimentos básicos e aprendendo a utilizar ferramentas como Git e GitHub.
+
+🚀 Meu objetivo é continuar estudando, desenvolver projetos ao longo da graduação e utilizar este perfil para acompanhar minha evolução profissional.
+
+Este perfil ainda está no começo, mas pretendo atualizá-lo conforme novos conhecimentos e projetos forem surgindo.
